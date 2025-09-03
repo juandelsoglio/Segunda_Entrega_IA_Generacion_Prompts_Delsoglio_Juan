@@ -46,7 +46,7 @@ Se implementa un **asistente virtual con IA** que:
 ## 📂 Contenido del repositorio  
 - `Preentrega2-DelsoglioJuan.ipynb` → Notebook con la implementación.  
 - `README.md` → Documento de presentación del proyecto.  
-- *(Opcional)* `Preentrega1.pdf` → Documento entregado en la primera instancia, con la idea inicial.  
+
 
 ---
 

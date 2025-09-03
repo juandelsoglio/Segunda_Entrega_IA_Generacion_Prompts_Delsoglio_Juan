@@ -1,4 +1,4 @@
-# ⚕️ Proyecto IA: Asistente Virtual para Turnos Médicos  
+# ⚕️ Proyecto IA: Asistente Inteligente para la Gestión de Turnos Médicos  
 
 ## 📌 Descripción  
 Este proyecto corresponde a la **Preentrega #2** del curso *Generación de Prompts 3.0* de la Diplomatura en Ciencia de Datos (Coderhouse).  
